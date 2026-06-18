@@ -6,4 +6,4 @@ while ( cont <= 2430 ) {
 console.log ( cont );
 cont = cont + 3;
 
-}
+} //WHILE = LAÇO COM TESTE NO INÍCIO
