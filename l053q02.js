@@ -10,7 +10,7 @@ console.log(`O número escolhido foi ${num}`);
 
 for (let i = 1; i <= 8; i++) {
     acum = acum + i;
-    console.log( acum );
-}
+    
+} console.log( acum );
 
-console.log("Fim da contagem!");
+console.log(`A soma dos números inteiros de 1 a ${num} é ${acum}`);
