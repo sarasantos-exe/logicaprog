@@ -16,4 +16,4 @@ function exibirData(): void {
 }
 exibirData(); // chamando a função exibirData()
 exibirData(); // chamando a função exibirData() novamente para exibir a data atualizada
-exibirData(); 
+exibirData();
